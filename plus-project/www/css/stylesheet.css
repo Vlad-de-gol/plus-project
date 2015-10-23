@@ -1,0 +1,106 @@
+/*types elements*/
+body{
+	background: #fff;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.text-center{
+	text-align:center;
+}
+.text-left{
+	text-align:left;
+}
+.text-right{
+	text-align:right;
+}
+.mtop5{
+	margin-top:5px;
+}
+.mtop10{
+	margin-top:10px;
+}
+.mtop15{
+	margin-top:15px;
+}
+.mtop20{
+	margin-top:20px;
+}
+.mtop25{
+	margin-top:25px;
+}
+.mtop30{
+	margin-top:30px;
+}
+.mtop35{
+	margin-top:35px;
+}
+.mbot5{
+	margin-bottom:5px;
+}
+.mbot10{
+	margin-bottom:10px;
+}
+.mbot15{
+	margin-bottom:15px;
+}
+.ptop5{
+	padding-top: 5px;
+}
+.ptop10{
+	padding-top: 10px;
+}
+.ptop15{
+	padding-top: 15px;
+}
+.ptop20{
+	padding-top: 20px;
+}
+.ptop25{
+	padding-top: 25px;
+}
+.ptop30{
+	padding-top: 30px;
+}
+.ptop35{
+	padding-top: 25px;
+}
+.pbot5{
+	padding-bottom:5px;
+}
+.pbot10{
+	padding-bottom:10px;
+}
+.pbot15{
+	padding-bottom:15px;
+}
+a{
+	cursor: pointer;
+}
+/*end types elements*/
+h1{
+
+}
+h2{
+
+}
+h3{
+
+}
+p{
+
+}
+.maint{
+
+}
+.normal{
+
+}
+.smallt{
+
+}
+
+
